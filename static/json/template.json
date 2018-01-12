@@ -1,0 +1,20 @@
+{
+  "code":0,
+  "message":"",
+  "result": [
+  {
+    "name":"过滤袋1",
+    "count":12,
+    "price":0.5
+  },
+  {
+    "name":"弗格森2",
+    "count":5,
+    "price":1.5
+  },
+  {
+    "name":"挂号费3",
+    "count":20,
+    "price":10
+  }
+]}
